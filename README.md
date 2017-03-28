@@ -1,0 +1,2 @@
+# reflections
+- a trainning folder.
