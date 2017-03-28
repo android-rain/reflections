@@ -2,10 +2,12 @@ When would you want to use a remote repository rather than keeping all your work
 local?
 
     Fill in your answer here: 当我和别人合作时，或者自己的多台电脑上完成同一个项目时，会使用远程代码库。
+
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Fill in your answer here：对本地版本的控制权。若干远程版本被合作伙伴修改，然后自动同步到了我的本地库，
+    这会打乱我的工作。
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
