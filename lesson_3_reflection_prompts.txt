@@ -12,7 +12,8 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fill in your answer here: 使用别人在GitHub上的项目时用Fork；从远程库向本地第一次下载库时用Clone；同一个
+    项目，要做一些不属于Master的更改时用branch。
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
