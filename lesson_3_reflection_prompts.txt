@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Fill in your answer here：通过写邮件或者即时信息软件，通知伙伴们我要做的更改，并附上代码。GitHub要方便很多，可以交流，并且查看代码和合并代码都很方便。第一种方法对于审查代码是很低效的。
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
