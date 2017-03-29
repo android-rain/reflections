@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Fill in your answer here：在我用代码实现自己的想法时，最好是放在分支中进行。因为这样不会打扰合作伙伴的
+    工作。当我和伙伴在共同执行一个任务时，我会直接提交到master分支，因为这样效率更高。
